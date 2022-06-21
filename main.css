@@ -179,6 +179,7 @@ body {
     color: white;
     font-size: 20px;
 }
+
 .key-feature__image {
     background: #ffcede;
     width: 128px;
@@ -186,4 +187,33 @@ body {
     border: #424242 solid 2px;
     border-radius: 50%;
     margin: auto;
+}
+
+.main-footer {
+    background: black;
+    color: white; 
+    padding: 32px;
+    margin-top: 48px;
+}
+
+.main-footer__links {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+.main-footer__link {
+    display: inline-block;
+    margin: 0 16px;
+}
+
+.main-footer__link a {
+    color: white;
+    text-decoration: none;
+}
+.main-footer__link a:hover,
+.main-footer__link a:active{
+    color: #ccc;
+    
 }
