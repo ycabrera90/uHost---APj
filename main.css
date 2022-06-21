@@ -54,21 +54,19 @@ body {
     padding: 8px;
     box-shadow: 2px 2px 2px 2px rgba(0, 0, 0, 0.5);
     border-radius: 8px;
-
 }
 
-.plan__features{
+.plan__features {
     list-style: none;
     padding: 0;
     margin: 0;
 }
 
-
-.plan__title{
+.plan__title {
     color: #0e4f1f;
 }
 
-.plan__price{
+.plan__price {
     color: rgb(133, 133, 133);
 }
 
@@ -86,7 +84,7 @@ body {
 .button {
     background: #0e4f1f;
     color: white;
-    font: inherit;              
+    font: inherit;
     border: 1.5px #0e4f1f solid;
     padding: 8px;
     border-radius: 8px;
@@ -95,7 +93,7 @@ body {
 }
 
 .button:hover,
-.button:active{
+.button:active {
     background: white;
     color: #0e4f1f;
 }
@@ -149,4 +147,14 @@ body {
     color: #ff1b68;
     background: white;
     border: none;
+}
+
+#key-features {
+    background: #ff1b68;
+    margin-top: 62px;
+}
+
+#key-features .section-title {
+    color: white;
+    padding: 45px;
 }
