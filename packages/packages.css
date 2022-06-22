@@ -40,9 +40,18 @@ main {
 #plus {
     background: rgba(213, 255, 220, 0.95);
 }
+
 #free {
     background: rgba(234, 252, 237, 0.95);
+    float: right;
+    border: 4px solid #0e4f1f;
+    border-right: none;
 }
+
+.fixIssue{
+    clear: both;
+}
+
 #premium {
     background: rgba(14, 79, 31, 0.95);
 }
