@@ -35,6 +35,12 @@
     box-shadow: 2px 2px 2px 2px rgba(0, 0, 0, 0.5);
 }
 
+.plan__list {
+    text-align: center;
+    width: 80%;
+    margin: auto;
+}
+
 .plan__annotation {
     background: white;
     color: #19b84c;
