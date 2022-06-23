@@ -2,6 +2,16 @@ main {
     margin-top: 32px;
 }
 
+.background {
+    background: url("../images/plans-background.jpg");
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    min-width: 100vw;
+    min-height: 100vh;
+    z-index: -1;
+}
+
 .package {
     width: 80%;
     margin: 16px 0;
