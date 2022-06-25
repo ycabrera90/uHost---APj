@@ -1,7 +1,7 @@
 
 
 .background {
-    background: url('../images/plans-background.jpg');
+    background: url('../images/plans-background.jpg') center/cover;
     position: fixed;
     top: 0px;
     left: 0px;
