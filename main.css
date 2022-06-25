@@ -1,8 +1,11 @@
 #product-overview {
     position: relative;
-    height: 528px;
+    height: 583px;
     padding: 10px;
-    background: url('freedom.jpg');
+    background-image: url('freedom.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: left 10% bottom 37%;
 }
 
 
